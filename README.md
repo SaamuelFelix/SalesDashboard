@@ -12,7 +12,7 @@ Funcionalidades:
 
 📊 Lucro por categoria de produto
 
-🌍 Filtros dinâmicos por ano, produto e país
+🌍 Filtros dinâmicos por ano, produto e país 
 
 
 
